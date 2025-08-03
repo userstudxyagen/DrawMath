@@ -1,6 +1,6 @@
 streamlit
-sympy
 numpy
 matplotlib
 scikit-learn
 streamlit-drawable-canvas
+sympy
